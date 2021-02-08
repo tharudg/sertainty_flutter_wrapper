@@ -27,7 +27,7 @@ For android it's easy. We can just add the plugin and use it without any additio
 
 ##### 3.For android it's easy. We can just add the plugin and use it without any additional steps, but for ios below steps are required.
 
-![Screenshot 2021-01-19 at 21.12.46](/Users/admin/Desktop/SS/Screenshot 2021-01-19 at 21.12.46.png)
+![Screenshot 2021-01-19 at 21.12.46](https://tharudgfiles.s3.us-east-2.amazonaws.com/Screenshot+2021-01-19+at+21.12.46.png)
 
 
 
