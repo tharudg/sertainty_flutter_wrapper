@@ -21,7 +21,7 @@ dependencies:
 
 ##### 2. Add Sertainty license, boot.ini , sertainty_android.rsf and sertainty_ios.rsf to project as assets folder
 
-![Screenshot 2021-01-19 at 20.55.36](https://drive.google.com/file/d/1HLKk7N9AZQhhNtGTqstEqt-Z4leWJGVN/view?usp=sharing)
+![Screenshot 2021-01-19 at 20.55.36](https://drive.google.com/file/d/1HLKk7N9AZQhhNtGTqstEqt-Z4leWJGVN/view)
 
 For android it's easy. We can just add the plugin and use it without any additional steps, but for ios below steps are required.
 
